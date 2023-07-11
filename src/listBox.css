@@ -1,0 +1,23 @@
+.listBoxContainer{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 320px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.listBoxItem{
+    background-color: #3a6b35;
+    color: #cbd16f;
+    padding: 10px;
+    border-bottom: 1px solid white;
+    font-size: 20px;
+}
+
+.activeItem{
+    background-color: #cbd16f;
+    color: #3a6b35;
+    /* background-color: #d4cdcd;
+    color: black; */
+}
